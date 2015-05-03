@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HelloDroid</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_droid">Hello droid! Wassup? How YOU doing? Whats the 411?</string>
+</resources>
